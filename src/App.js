@@ -54,7 +54,7 @@ export default function App() {
             </Link>
           </div>
         </div>
-        <h1>useReducer Hook!</h1>
+        <h1>useReducer Hook use!</h1>
         <Routes>
           <Route path="/counter" element={<CounterApp />} />
           <Route path="/login" element={<LoginUseReducer />} />
