@@ -53,5 +53,3 @@ export default function CounterApp() {
     </div>
   );
 }
-
-export default CounterApp;
